@@ -1,0 +1,30 @@
+.slogan {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: var(--crimson);
+  margin: 20px 0;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.artcleImage {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.artcleImage:hover{
+  cursor: pointer;
+}
+
+.main{
+  background-color: #fff8ea;
+}
+
+.content{
+  background-color: #fbeaff;
+}
+
+span{
+  color: #00c9a7;
+}
